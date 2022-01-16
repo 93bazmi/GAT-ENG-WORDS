@@ -14,7 +14,7 @@ body{
 }
 button{
     font-size: 16px;
-    font-family: cursive;
+    font-family: unset;
     width: 90px;
     height: 35px;
     border:dashed 3px black;
