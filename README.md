@@ -1,2 +1,2 @@
 # GAT-ENG-WORDS
-**GITHUB PAGE URL :** https://github.com/93bazmi/GAT-ENG-WORDS.git
+**GITHUB PAGE URL :** https://93bazmi.github.io/GAT-ENG-WORDS/
